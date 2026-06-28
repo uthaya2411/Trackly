@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "399378530713",
+    "project_id": "trackly-pro-uthai",
+    "storage_bucket": "trackly-pro-uthai.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399378530713:android:a742fbf6f6d9f5f46e9308",
+        "android_client_info": {
+          "package_name": "com.uthai.tracklypro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "399378530713-02reltm428ep4i4erkkg2371iotrv31g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uthai.tracklypro",
+            "certificate_hash": "e6dc97558eb74698caaaaa7b9d18cd0d5e55a153"
+          }
+        },
+        {
+          "client_id": "399378530713-hm5r9b78l51oheiuve2bfap1n6q00kfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB76oWhl9gdcvjRpMqzYCxvjIlQOoMjdTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "399378530713-hm5r9b78l51oheiuve2bfap1n6q00kfr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "399378530713-7s2m55i6a08ic8cbsaulj8kb1gr4f9ca.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.uthai.tracklypro"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
